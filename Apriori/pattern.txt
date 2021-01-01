@@ -1,0 +1,101 @@
+1431:Hotels & Travel;Event Planning & Services;Hotels
+818:Bars;Nightlife;Sports Bars
+1150:Food;Specialty Food
+2416:American (Traditional);Restaurants
+874:Pubs;Nightlife
+2364:Sandwiches
+4785:Home Services
+1018:Ice Cream & Frozen Yogurt;Food
+1497:Pets
+2657:Pizza;Restaurants
+1586:Home & Garden
+6583:Beauty & Spas
+1424:Real Estate
+3103:Active Life
+848:Japanese
+774:Burgers;Restaurants;Fast Food
+1138:Shopping;Fashion;Women's Clothing
+2364:Sandwiches;Restaurants
+1442:Fitness & Instruction;Active Life
+774:Burgers;Fast Food
+2199:Coffee & Tea;Food
+874:Pubs
+1848:Italian
+1716:Automotive;Auto Repair
+2515:Mexican;Restaurants
+798:Sushi Bars
+874:Pubs;Bars
+2851:Fast Food;Restaurants
+5121:Health & Medical
+1629:Chinese
+1138:Fashion;Women's Clothing
+874:Pubs;Bars;Nightlife
+848:Japanese;Restaurants
+1667:Nail Salons;Beauty & Spas
+25071:Restaurants
+2091:Hair Salons;Beauty & Spas
+818:Bars;Sports Bars
+1431:Hotels & Travel;Hotels
+1369:Breakfast & Brunch;Restaurants
+2495:Hotels & Travel
+823:General Dentistry
+1115:Bakeries
+1424:Home Services;Real Estate
+870:Pet Services;Pets
+3078:Fashion;Shopping
+1195:Dentists
+1025:Professional Services
+1424:Grocery
+1716:Auto Repair
+1002:Cafes;Restaurants
+3078:Fashion
+1018:Ice Cream & Frozen Yogurt
+1424:Food;Grocery
+3468:Local Services
+1002:Cafes
+870:Pet Services
+9250:Food
+1593:American (New);Restaurants
+2091:Hair Salons
+1431:Event Planning & Services;Hotels
+4328:Bars
+2975:Event Planning & Services
+798:Sushi Bars;Restaurants
+4328:Bars;Nightlife
+2423:Bars;Restaurants
+1774:Burgers;Restaurants
+11233:Shopping
+2416:American (Traditional)
+1848:Italian;Restaurants
+2533:Nightlife;Restaurants
+875:Financial Services
+1586:Shopping;Home & Garden
+1138:Shopping;Women's Clothing
+818:Nightlife;Sports Bars
+818:Sports Bars
+1138:Women's Clothing
+2515:Mexican
+4208:Automotive
+823:Health & Medical;General Dentistry
+1593:American (New)
+2101:Food;Restaurants
+2851:Fast Food
+5088:Nightlife
+1431:Hotels
+1195:Health & Medical;Dentists
+823:Health & Medical;Dentists;General Dentistry
+2271:Arts & Entertainment
+1667:Nail Salons
+1369:Breakfast & Brunch
+1471:Event Planning & Services;Hotels & Travel
+1774:Burgers
+2423:Bars;Nightlife;Restaurants
+1442:Fitness & Instruction
+2199:Coffee & Tea
+1694:Doctors
+1629:Chinese;Restaurants
+1694:Health & Medical;Doctors
+823:Dentists;General Dentistry
+1115:Bakeries;Food
+1150:Specialty Food
+2657:Pizza

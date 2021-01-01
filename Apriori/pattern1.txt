@@ -1,0 +1,50 @@
+1716:Auto Repair
+3078:Fashion
+1018:Ice Cream & Frozen Yogurt
+1667:Nail Salons
+1002:Cafes
+1442:Fitness & Instruction
+870:Pet Services
+2364:Sandwiches
+4785:Home Services
+2199:Coffee & Tea
+2091:Hair Salons
+1497:Pets
+4328:Bars
+2975:Event Planning & Services
+1586:Home & Garden
+6583:Beauty & Spas
+1774:Burgers
+3103:Active Life
+848:Japanese
+1195:Dentists
+2416:American (Traditional)
+1424:Real Estate
+2515:Mexican
+874:Pubs
+818:Sports Bars
+1848:Italian
+1138:Women's Clothing
+4208:Automotive
+798:Sushi Bars
+3468:Local Services
+5121:Health & Medical
+1629:Chinese
+2271:Arts & Entertainment
+2851:Fast Food
+5088:Nightlife
+25071:Restaurants
+1431:Hotels
+2495:Hotels & Travel
+823:General Dentistry
+1115:Bakeries
+1369:Breakfast & Brunch
+1593:American (New)
+9250:Food
+1694:Doctors
+11233:Shopping
+875:Financial Services
+1025:Professional Services
+1150:Specialty Food
+2657:Pizza
+1424:Grocery
