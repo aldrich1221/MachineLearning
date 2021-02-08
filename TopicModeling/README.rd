@@ -1,4 +1,4 @@
-#Topic Modeling. 
+Topic Modeling. 
 
 The topic model is built by LDA and PLSA using PySpark. 
 
